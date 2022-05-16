@@ -6,8 +6,9 @@ predict customer churn based on machine learning Classification using
 the Random Forest algorithm and SVM XGboost finded log loss for models and compared. Churn and survival times using survival analysis dataset exploration. Accuracy: 86%
 ## PROJECT 3 : [customer-segmentation](https://github.com/nitinsoni1/Portfolio/blob/main/Machine%20Learning%20Projects/customer-segmentation.ipynb)
 Aim to segement the Customers based on RFM so that the company can target its customers efficiently.K-Means Clustering with 3 Cluster Ids and Hierarchical Clustering with 3 Cluster Labels.plots the results,used linkages.Elbow Curve to get the right number of Clusters.
-
-
+## PROJECT 4 : [predict-gold-price](https://github.com/nitinsoni1/Portfolio/blob/main/Machine%20Learning%20Projects/predict-gold-price.ipynb)
+Linear regression is used to forecast gold prices. This model was developed using a daily gold price data from Yahoo Finance. Linear regression has been utilised, along with other data wrangling and data visualisation approaches, and the accuracy has been predicted using the r-squared method. The moving average notion of data wrangling is also emphasised in this strategy.
+## PROJECT 5 : []()
 <!---
 nitinsoni1/nitinsoni1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
