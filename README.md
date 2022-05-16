@@ -4,7 +4,8 @@ Linear regression, XGBoost, and LightGBM models are used to forecast total sales
 ## PROJECT 2 : [customer-churn-and-prevention-in-travel-industry](https://github.com/nitinsoni1/Portfolio/blob/main/Machine%20Learning%20Projects/customer-churn-and-prevention-in-travel-industry.ipynb)
 predict customer churn based on machine learning Classification using
 the Random Forest algorithm and SVM XGboost finded log loss for models and compared. Churn and survival times using survival analysis dataset exploration. Accuracy: 86%
-
+## PROJECT 3 : [customer-segmentation](https://github.com/nitinsoni1/Portfolio/blob/main/Machine%20Learning%20Projects/customer-segmentation.ipynb)
+Aim to segement the Customers based on RFM so that the company can target its customers efficiently.K-Means Clustering with 3 Cluster Ids and Hierarchical Clustering with 3 Cluster Labels.plots the results,used linkages.Elbow Curve to get the right number of Clusters.
 
 
 <!---
